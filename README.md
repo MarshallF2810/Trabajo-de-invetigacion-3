@@ -1,5 +1,5 @@
 # Trabajo-de-invetigacion-3
-## 1. TEMA: INTRODUCCIÓN A LA PROGRAMACIÓN POR BLOQUES DE ARDUINO EN TINKERCAD
+## 1. TEMA: SENSORES CON ARDUINO EN TINKERCAD
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 La utilización de Arduino hoy en día es muy demandada en proyectos de electrónica, ya que al ser una plataforma libre y de código abierto, los usuarios pueden modificar los requerimientos a sus necesidades, debido a que incorpora un microcontrolador y un entorno de desarrollo que permiten que todo esto sea posible.
 En nuestro caso, al ser un entorno virtual en el cual vamos a trabajar, utilizaremos el Arduino UNO que incorpora Tinkercad, realizando la programación de un circuito mediante un entorno de desarrollo gráfico (Programación por bloques). El propósito de este trabajo de investigación es analizar los aspectos de hardware que ofrece un Arduino, haciendo énfasis en la entrada (sensores) y salida de información (indicadores LEDs,- alarmas). Esto se determinará a partir de la fundamentación correspondiente a los componentes que conforma un Arduino, su funcionalidad y aplicándolo a diferentes circuitos, en los que se presente la operatividad y funcionamiento de algunos sensores que incorpora Tinkercad, tales como, el sensor de luz ambiental, sensor PIR, sensor de distancia, sensor de inclinación, sensor de temperatura y un sensor de gas.  
