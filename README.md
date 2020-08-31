@@ -81,10 +81,10 @@ Es un dispositivo electrónico que responde al cambio en la intensidad de la luz
 Es utilizado para medir la iluminancia, en otras palabras para medir el nivel de iluminación. Al conocer el valor de iluminación podremos decir si es correcto o incorrecta lo iluminado que está un lugar y esto se deberá por la luz insuficiente para iluminar el área determinada o por el exceso de luz que haya.
  
 #### Tipos de sensores de Luz:
-Fotodiodo.-Semiconductor construido con una unión PN, sensible a la incidencia de la luz visible o infrarroja.
-LDR.-El fotoresistor o LDR por sus siglas en inglés (Light Dependent Resistor) es una resistencia la cual varía su valor en función de la cantidad de luz que incide cobre su superficie.
-Fototransistor.-Tiene una union base collector p-n sensible a la luz.
-Célula fotoeléctrica.-Es un dispositivo electrónico que permite transformar la energía lumínica en energía eléctrica mediante el efecto fotoeléctrico, generando energía solar fotovoltaica.
+- Fotodiodo.-Semiconductor construido con una unión PN, sensible a la incidencia de la luz visible o infrarroja.
+- LDR.-El fotoresistor o LDR por sus siglas en inglés (Light Dependent Resistor) es una resistencia la cual varía su valor en función de la cantidad de luz que incide cobre su superficie.
+- Fototransistor.-Tiene una union base collector p-n sensible a la luz.
+- Célula fotoeléctrica.-Es un dispositivo electrónico que permite transformar la energía lumínica en energía eléctrica mediante el efecto fotoeléctrico, generando energía solar fotovoltaica.
 ###  Sensor PIR
 Los detectores PIR (Passive Infrared) o Pasivo Infrarrojo, reaccionan sólo ante determinadas fuentes de energía tales como el calor del cuerpo humano o animales. Básicamente reciben la variación de las radiaciones infrarrojas del medio ambiente que cubre. Es llamado pasivo debido a que no emite radiaciones, sino que las recibe. Estos captan la presencia detectando la diferencia entre el calor emitido por el cuerpo humano y el espacio alrededor.
 Su componente principal son los sensores piroeléctrico. Se trata de un componente electrónico diseñado para detectar cambios en la radiación infrarroja recibida. Generalmente dentro de su encapsulado incorporan un transistor de efecto de campo que amplifica la señal eléctrica que genera cuando se produce dicha variación de radiación recibida.
